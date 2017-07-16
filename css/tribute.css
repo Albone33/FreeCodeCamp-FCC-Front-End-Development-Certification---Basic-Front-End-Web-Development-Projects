@@ -1,0 +1,79 @@
+/*
+	This is the CSS for tribute page
+*/
+	body {
+		padding: 3%;
+	}
+	
+	.container-fluid {
+		border-radius: 3%;
+	}
+	
+	#header {
+		background-color: #EEE;
+		border-radius: 20px;
+	}
+
+	#mainImage {
+		border-radius: 30px 30px 30px 30px;		
+	}
+
+	#innerContainer {
+		background-color: #EFEFEF;
+		margin-top: -30px;
+		border-radius: 20px;
+	}
+
+	h1 {
+		color: black;
+		font-family: Arial, Times New Roman, Garamond;
+	}
+	
+	img {
+		border-color: white;
+		border-width: 5px 5px 40px 5px;
+		border-style: solid;
+	}
+	
+	#innerContainer .row .col-md-3 p {
+		margin-top: -50px;
+		margin-bottom: 30px;
+	} 
+
+	.side-images {
+		height: 30%;
+	}
+	
+	.row .col-md-3 {
+		padding-top: 3%;
+	}
+
+	.row .col-md-3 img {
+		margin-top: 5%;
+		margin-bottom: 10%;
+		border: 1%;
+		border-color: #FFF;
+		border-radius: 3%;
+	}
+	
+	.row .col-md-9, .row .col-md-6, .row .col-md-10 {
+		text-align: justify;
+	}
+
+	h3 {
+		color: blue;
+	}
+
+	ul li {
+		margin-bottom: 5px;
+	}
+
+	footer {
+		margin-top: 5%;
+	}
+
+	#writer p {
+		background-color: #EEE;
+		border-radius: 4px;
+		text-align: center;
+	}

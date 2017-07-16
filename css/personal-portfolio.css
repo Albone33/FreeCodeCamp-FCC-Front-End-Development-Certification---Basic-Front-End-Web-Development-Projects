@@ -1,0 +1,97 @@
+body {
+	background-color: #F0F0F0;
+	width: 100%;
+}
+
+#logo {
+	margin-top: -15px;
+	margin-left: 10px;
+	width: 250px;
+	height: 70px;
+}
+
+#innerContainer {
+	margin-top: 100px;
+	margin-bottom: 80px;
+	background-color: white;
+	border-radius: 15px;
+}
+
+#innerContainer .newLine {
+	margin-top: 50px;
+}
+
+#developerImage {
+	margin-top: 70px;
+	border: 5px;
+	border-color: white;
+}
+
+.developerClientImage {
+	border-color: #EEE;
+	border-width: 7px 7px 7px 7px;
+	border-style: solid;
+	border-radius: 20px;
+	margin-bottom: 60px;
+}
+
+#map {
+	height: 400px;
+	width: 100%;
+}
+
+#footer {
+	padding-top: 10px;
+	padding-left: 15px;
+}
+
+#navbarButton, #navbarCollapse, #header, #footer, footer {
+	background-color: #B2BEB5;
+}
+
+#bs-example-navbar-collapse-1 ul li a {
+	color: black;
+}
+
+#bs-example-navbar-collapse-1 ul li a:hover {
+	background-color: white;
+	color: black;
+}
+
+.fa {
+	padding: 20px;
+	font-size: 30px;
+	width: 20px;
+	text-align: center;
+	text-decoration: none;
+	border-radius: 35px;
+}
+
+
+.fa {
+	opacity: 0.7;
+	background-color: #F0F0F0;
+	padding: 25px 45px 25px 30px;
+	border-radius: 10px;
+	font-size: 30px;
+	width: 30px;
+	text-align: center;
+	text-decoration: none;
+	background-color: black;
+}
+
+.fa:hover {
+	opacity: 0.7;
+	background-color: #F0F0F0;
+	padding: 25px 45px 25px 30px;
+	border-radius: 10px;
+	font-size: 30px;
+	width: 30px;
+	text-align: center;
+	text-decoration: none;
+	background-color: #B2BEB5;
+}
+
+.fa #gitIcon {
+	padding: 25px 65px 25px 30px;
+}
